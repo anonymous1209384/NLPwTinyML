@@ -1,0 +1,12 @@
+LED
+On
+Wake up
+and
+blink
+cancel
+fast
+flash
+plus
+quick
+slow
+toggle

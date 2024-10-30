@@ -82,7 +82,6 @@ C:.
 │       └───modified_color_keyword_4
 ├───Arduino Final Model (1-Chip)
 │   └───modified_color_command_keyword_microphone_continuous
-├───Arduino Final Model (2-Chip)
 ├───Datasets
 │   ├───Colors
 │   │   ├───Json (Edge Impulse Format)
@@ -91,6 +90,5 @@ C:.
 │       ├───Json (Edge Impulse Format)
 │       └───Wav (Edge Impulse Formatting)
 ├───Edge Impulse Pipeline (Concept)
-├───External Pipeline Example
 └───Keywords List
 ```

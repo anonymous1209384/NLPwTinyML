@@ -1,0 +1,28 @@
+Prediction Order:
+1. Blue 		(i)
+2. Cyan 		(i)
+3. Green 		(i)
+4. LED			(p)
+5. Magenta 		(i)
+6. Off			(i) [some bugs]
+7. On			(i)
+8. Red 			(i)
+9. Wake up 		(i)
+10. White 		(i)
+11. Yellow 		(i)
+12. and			(i)
+13. blink		
+14. cancel 		(i)
+15. fast
+16. flash
+17. noise 		(i)
+18. noise2 		(i)
+19. plus
+20. quick
+21. slow
+22. toggle
+23. unknown 		(i)
+
+Legend:
+(i) - logic implemented
+(p) - partial logic implemented

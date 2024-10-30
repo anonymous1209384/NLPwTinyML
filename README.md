@@ -4,6 +4,8 @@
 ```bash
 git clone https://github.com/anonymous1209384/NLPwTinyML.git
 ```
+## Datasets
+Link: [Datasets](https://1drv.ms/f/s!AoAEgHMTsMeSa92RX1ObIkhsVbU?e=f5XDOL)
 ## Arduino
 - Download [Arduino IDE](https://www.arduino.cc/en/software)
   - Version 2.3.2

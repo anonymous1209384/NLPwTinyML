@@ -43,7 +43,7 @@ Link: [Datasets](https://1drv.ms/f/s!AoAEgHMTsMeSa92RX1ObIkhsVbU?e=f5XDOL)
   - If any errors occur check the library files imported from Arduino.
 - Note: Arduino CLI and Edge Impulse are not required in order to use the code in this way
 ## Using the Dataset
-- Datasets are located in the 'Datasets' folder
+- Datasets are located in the 'Datasets' One Drive linked above
 - Open Edge Impulse browser app
   - Create a new project
     - Data acquisition > CSV Wizard > Choose File > [Add Dataset file] > upload file
